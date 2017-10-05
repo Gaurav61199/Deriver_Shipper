@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Deriver_Shipper</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="signInToUp">OR REGISTER</string>
+    <string name="signUpToIn">OR LOGIN</string>
+    <string name="MobileNumber">Mobile Number</string>
+    <string name="resendOTP">Resend OTP</string>
+    <string name="Name">Name</string>
+    <string name="WorkEmail"> Work Email</string>
+    <string name="CompanyName">Company Name</string>
+    <string-array name="CompanyType">
+        <item>Company Type</item>
+        <item>Private Limited</item>
+        <item>LLP</item>
+        <item>Partnership</item>
+        <item>Others</item>
+    </string-array>
+    <string name="Verify">VERIFY</string>
+</resources>
